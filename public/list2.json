@@ -1,0 +1,26 @@
+[
+    
+
+    {
+        "id":1,
+        "info": "1. The vendors willing to execute the projects through National Portal can get registered with respective DISCOM by submitting an application along with a declaration in the format given at www.solarrooftop.gov.in and depositing a PBG of Rs. 2, 50,000/- valid for at least five years." ,
+        "category":"none"
+ 
+ }
+
+,
+    {
+       "id":2,
+       "info": " 2. Vendors can submit the application at the Division/Circle level and their name will be included in the list of Registered Vendors within a period of one month from the date of submission of the application.The DISCOM will update the list every month" ,
+       "category":"none"
+
+}
+,{
+    "id":3,
+    "info": " 3.The DISCOM will upload the details of the registered vendors on the National Portal and the vendors will receive a registration mail.The vendors can now login into the National Portal with PAN No.and mobile number(used by DISCOM for registration) an enter the product rates and contact details.The details entered by the vendor will be visible to the consumer submitting application to the concerned DISCOM for rooftop solar" ,
+    "category":"none"
+}
+
+
+
+]
